@@ -1,15 +1,7 @@
-👋 Hi, I’m Nik
+👋 Hi! I'm Nik, a software engineer working on developer tools and AI products, currently at [@JetBrains](https://github.com/JetBrains).
 
-I'm open to any collaboration work for open-source
+Now: [JetBrains Air](https://www.jetbrains.com/air/), a home for AI coding agents.
+Before: [JetBrains AI (Grazie)](https://www.jetbrains.com/grazie/), [Qodana](https://github.com/qodana), [Ring UI](https://github.com/JetBrains/ring-ui).
 
-#### Last pet projects:
-- Created RxJS/RxJava like reactive library just for kick - [TrJS](https://github.com/lampmaster/trjs)
-- Presentation App - [Presentool](https://github.com/CodeFrontTools/presentool)
-
-#### Get in touch
-
-- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/nikremark)
-- ✈︎ telegram [@nremarka](https://t.me/nremarka)
-- 🗣️ Pronouns: he/his
-
-[![Codewars Badge](https://www.codewars.com/users/nik.remarka/badges/micro)](https://www.codewars.com/users/nik.remarka)
+I like experimenting with AI agents and automation.
+One of my latest projects: [Ant Lab](https://antlab.app), a real-time evolution sim where neural-network ants inherit genes and evolve.
